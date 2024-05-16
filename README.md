@@ -1,2 +1,1 @@
-hello world
-# sky-take-out
+sky-take-out
