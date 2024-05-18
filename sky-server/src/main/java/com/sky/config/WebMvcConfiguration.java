@@ -78,6 +78,7 @@ public class WebMvcConfiguration extends WebMvcConfigurationSupport {
         registry.addResourceHandler("/webjars/**").addResourceLocations("classpath:/META-INF/resources/webjars/");
     }
 
+
     /**
      * 拓展Spring MVC框架的消息转换器
      * @param converters
