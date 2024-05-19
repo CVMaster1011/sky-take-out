@@ -15,6 +15,11 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher #解决SpringBoot和Swagger2版本冲突
+  redis:
+    host: ${sky.redis.host}
+    port: ${sky.redis.port}
+    password: ${sky.redis.password}
+    database: ${sky.redis.database}
 
 mybatis:
   #mapper配置文件

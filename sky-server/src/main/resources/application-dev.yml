@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tHqXzy64mrwcMrSF1BD
     access-key-secret: syb3PLIxaK8k8Vo3s4ctN2KWPPTROy
     bucket-name: web-tails-ll
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
