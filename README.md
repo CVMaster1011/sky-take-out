@@ -17,8 +17,15 @@ redis-server.exe redis.windows.conf
   
 ### 4. wx小程序启动
 
+## 二、数据库及界面展示
+### 1. 数据库
 
-## 二、项目技术（后端）
+### 2. 前端界面
+
+### 3. wx小程序
+
+
+## 三、项目技术（后端）
 ### 1. Swagger：生成接口文档，进行后端接口测试
 ### 2. PageHelper实现查询分页
 ### 3. 采用自定义注解AutoFill、自定义切面类AutoFillAspect实现填充公共字段
